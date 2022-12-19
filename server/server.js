@@ -21,7 +21,7 @@ app.use(bodyParser.urlencoded({ limit: "50mb", extended: true }));
 
 const publicPath = path.join(__dirname, "./public");
 app.use("/public", express.static(publicPath));
-app.use("/api/v1", rootRouter);
+app.use("/", rootRouter);
 
 app.get("/", (req, res) => {
     res.send("From ptnm with love!");
