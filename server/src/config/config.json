@@ -1,0 +1,25 @@
+{
+    "development": {
+        "username": "sql6585426",
+        "password": "661AWl4gsc",
+        "database": "sql6585426",
+        "host": "sql6.freesqldatabase.com",
+        "dialect": "mysql",
+        "logging": false
+    },
+    "test": {
+        "username": "freedb_ptnminh",
+        "password": "ZQ#4#!m34xPtudz",
+        "database": "freedb_student_management",
+        "host": "sql.freedb.tech",
+        "dialect": "mysql",
+        "logging": false
+    },
+    "production": {
+        "username": "root",
+        "password": null,
+        "database": "database_production",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    }
+}

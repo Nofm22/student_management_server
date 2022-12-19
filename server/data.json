@@ -1,0 +1,1622 @@
+[
+    {
+        "studentId": 1,
+        "courseName": "History",
+        "exam15": 3,
+        "exam45": 9,
+        "examFinal": 9,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 2,
+        "courseName": "History",
+        "exam15": 6,
+        "exam45": 9,
+        "examFinal": 5,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 3,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 5,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 4,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 4,
+        "examFinal": 4,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 5,
+        "courseName": "History",
+        "exam15": 5,
+        "exam45": 6,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 6,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 6,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 7,
+        "courseName": "History",
+        "exam15": 10,
+        "exam45": 4,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 8,
+        "courseName": "History",
+        "exam15": 2,
+        "exam45": 1,
+        "examFinal": 6,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 9,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 10,
+        "examFinal": 4,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 10,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 6,
+        "examFinal": 8,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 11,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 2,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 12,
+        "courseName": "History",
+        "exam15": 5,
+        "exam45": 6,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 13,
+        "courseName": "History",
+        "exam15": 2,
+        "exam45": 10,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 14,
+        "courseName": "History",
+        "exam15": 10,
+        "exam45": 4,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 15,
+        "courseName": "History",
+        "exam15": 2,
+        "exam45": 3,
+        "examFinal": 8,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 16,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 5,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 17,
+        "courseName": "History",
+        "exam15": 10,
+        "exam45": 3,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 18,
+        "courseName": "History",
+        "exam15": 6,
+        "exam45": 1,
+        "examFinal": 5,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 19,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 9,
+        "examFinal": 4,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 20,
+        "courseName": "History",
+        "exam15": 4,
+        "exam45": 4,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 21,
+        "courseName": "History",
+        "exam15": 3,
+        "exam45": 3,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 22,
+        "courseName": "History",
+        "exam15": 3,
+        "exam45": 3,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 23,
+        "courseName": "History",
+        "exam15": 10,
+        "exam45": 4,
+        "examFinal": 4,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 24,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 1,
+        "examFinal": 9,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 25,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 4,
+        "examFinal": 8,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 26,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 5,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 27,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 9,
+        "examFinal": 9,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 28,
+        "courseName": "History",
+        "exam15": 3,
+        "exam45": 3,
+        "examFinal": 9,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 29,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 2,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 30,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 6,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 31,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 1,
+        "examFinal": 6,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 32,
+        "courseName": "History",
+        "exam15": 4,
+        "exam45": 5,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 33,
+        "courseName": "History",
+        "exam15": 6,
+        "exam45": 8,
+        "examFinal": 8,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 34,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 4,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 35,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 8,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 36,
+        "courseName": "History",
+        "exam15": 4,
+        "exam45": 3,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 37,
+        "courseName": "History",
+        "exam15": 2,
+        "exam45": 3,
+        "examFinal": 6,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 38,
+        "courseName": "History",
+        "exam15": 3,
+        "exam45": 7,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 39,
+        "courseName": "History",
+        "exam15": 6,
+        "exam45": 6,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 40,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 9,
+        "examFinal": 5,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 41,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 9,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 42,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 8,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 43,
+        "courseName": "History",
+        "exam15": 5,
+        "exam45": 1,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 44,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 8,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 45,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 9,
+        "examFinal": 4,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 46,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 10,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 47,
+        "courseName": "History",
+        "exam15": 3,
+        "exam45": 7,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 48,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 6,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 49,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 6,
+        "examFinal": 6,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 50,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 2,
+        "examFinal": 6,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 51,
+        "courseName": "History",
+        "exam15": 6,
+        "exam45": 7,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 52,
+        "courseName": "History",
+        "exam15": 10,
+        "exam45": 8,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 53,
+        "courseName": "History",
+        "exam15": 5,
+        "exam45": 3,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 54,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 6,
+        "examFinal": 5,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 55,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 8,
+        "examFinal": 4,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 56,
+        "courseName": "History",
+        "exam15": 2,
+        "exam45": 7,
+        "examFinal": 5,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 57,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 1,
+        "examFinal": 4,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 58,
+        "courseName": "History",
+        "exam15": 10,
+        "exam45": 6,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 59,
+        "courseName": "History",
+        "exam15": 3,
+        "exam45": 6,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 60,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 7,
+        "examFinal": 6,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 61,
+        "courseName": "History",
+        "exam15": 6,
+        "exam45": 7,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 62,
+        "courseName": "History",
+        "exam15": 3,
+        "exam45": 9,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 63,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 7,
+        "examFinal": 8,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 64,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 9,
+        "examFinal": 4,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 65,
+        "courseName": "History",
+        "exam15": 6,
+        "exam45": 4,
+        "examFinal": 6,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 66,
+        "courseName": "History",
+        "exam15": 4,
+        "exam45": 3,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 67,
+        "courseName": "History",
+        "exam15": 6,
+        "exam45": 9,
+        "examFinal": 6,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 68,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 8,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 69,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 2,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 70,
+        "courseName": "History",
+        "exam15": 4,
+        "exam45": 5,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 71,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 1,
+        "examFinal": 9,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 72,
+        "courseName": "History",
+        "exam15": 6,
+        "exam45": 4,
+        "examFinal": 4,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 73,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 6,
+        "examFinal": 4,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 74,
+        "courseName": "History",
+        "exam15": 2,
+        "exam45": 5,
+        "examFinal": 8,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 75,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 8,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 76,
+        "courseName": "History",
+        "exam15": 5,
+        "exam45": 10,
+        "examFinal": 5,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 77,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 8,
+        "examFinal": 9,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 78,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 4,
+        "examFinal": 9,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 79,
+        "courseName": "History",
+        "exam15": 5,
+        "exam45": 1,
+        "examFinal": 8,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 80,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 10,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 81,
+        "courseName": "History",
+        "exam15": 10,
+        "exam45": 1,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 82,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 9,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 83,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 4,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 84,
+        "courseName": "History",
+        "exam15": 6,
+        "exam45": 5,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 85,
+        "courseName": "History",
+        "exam15": 2,
+        "exam45": 10,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 86,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 4,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 87,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 8,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 88,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 7,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 89,
+        "courseName": "History",
+        "exam15": 2,
+        "exam45": 7,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 90,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 7,
+        "examFinal": 6,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 91,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 6,
+        "examFinal": 5,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 92,
+        "courseName": "History",
+        "exam15": 6,
+        "exam45": 6,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 93,
+        "courseName": "History",
+        "exam15": 4,
+        "exam45": 2,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 94,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 5,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 95,
+        "courseName": "History",
+        "exam15": 10,
+        "exam45": 3,
+        "examFinal": 6,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 96,
+        "courseName": "History",
+        "exam15": 4,
+        "exam45": 4,
+        "examFinal": 5,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 97,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 1,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 98,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 4,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 99,
+        "courseName": "History",
+        "exam15": 6,
+        "exam45": 4,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 100,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 10,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 101,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 9,
+        "examFinal": 8,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 102,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 7,
+        "examFinal": 5,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 103,
+        "courseName": "History",
+        "exam15": 10,
+        "exam45": 6,
+        "examFinal": 8,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 104,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 1,
+        "examFinal": 6,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 105,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 1,
+        "examFinal": 9,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 106,
+        "courseName": "History",
+        "exam15": 3,
+        "exam45": 1,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 107,
+        "courseName": "History",
+        "exam15": 5,
+        "exam45": 5,
+        "examFinal": 5,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 108,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 9,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 109,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 2,
+        "examFinal": 9,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 110,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 10,
+        "examFinal": 4,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 111,
+        "courseName": "History",
+        "exam15": 2,
+        "exam45": 7,
+        "examFinal": 8,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 112,
+        "courseName": "History",
+        "exam15": 10,
+        "exam45": 2,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 113,
+        "courseName": "History",
+        "exam15": 3,
+        "exam45": 8,
+        "examFinal": 4,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 114,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 8,
+        "examFinal": 9,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 115,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 8,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 116,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 1,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 117,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 3,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 118,
+        "courseName": "History",
+        "exam15": 5,
+        "exam45": 6,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 119,
+        "courseName": "History",
+        "exam15": 2,
+        "exam45": 6,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 120,
+        "courseName": "History",
+        "exam15": 5,
+        "exam45": 4,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 121,
+        "courseName": "History",
+        "exam15": 6,
+        "exam45": 9,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 122,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 7,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 123,
+        "courseName": "History",
+        "exam15": 4,
+        "exam45": 10,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 124,
+        "courseName": "History",
+        "exam15": 5,
+        "exam45": 4,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 125,
+        "courseName": "History",
+        "exam15": 10,
+        "exam45": 4,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 126,
+        "courseName": "History",
+        "exam15": 6,
+        "exam45": 7,
+        "examFinal": 5,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 127,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 6,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 128,
+        "courseName": "History",
+        "exam15": 10,
+        "exam45": 7,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 129,
+        "courseName": "History",
+        "exam15": 6,
+        "exam45": 6,
+        "examFinal": 4,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 130,
+        "courseName": "History",
+        "exam15": 3,
+        "exam45": 2,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 131,
+        "courseName": "History",
+        "exam15": 2,
+        "exam45": 9,
+        "examFinal": 9,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 132,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 4,
+        "examFinal": 6,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 133,
+        "courseName": "History",
+        "exam15": 2,
+        "exam45": 7,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 134,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 3,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 135,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 5,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 136,
+        "courseName": "History",
+        "exam15": 6,
+        "exam45": 5,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 137,
+        "courseName": "History",
+        "exam15": 5,
+        "exam45": 4,
+        "examFinal": 4,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 138,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 8,
+        "examFinal": 4,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 139,
+        "courseName": "History",
+        "exam15": 3,
+        "exam45": 7,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 140,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 5,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 141,
+        "courseName": "History",
+        "exam15": 4,
+        "exam45": 7,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 142,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 9,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 143,
+        "courseName": "History",
+        "exam15": 5,
+        "exam45": 10,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 144,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 3,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 145,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 1,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 146,
+        "courseName": "History",
+        "exam15": 2,
+        "exam45": 2,
+        "examFinal": 5,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 147,
+        "courseName": "History",
+        "exam15": 4,
+        "exam45": 10,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 148,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 8,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 149,
+        "courseName": "History",
+        "exam15": 3,
+        "exam45": 3,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 150,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 3,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 151,
+        "courseName": "History",
+        "exam15": 2,
+        "exam45": 8,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 152,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 5,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 153,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 7,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 154,
+        "courseName": "History",
+        "exam15": 3,
+        "exam45": 1,
+        "examFinal": 1,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 155,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 6,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 156,
+        "courseName": "History",
+        "exam15": 3,
+        "exam45": 1,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 157,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 1,
+        "examFinal": 9,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 158,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 2,
+        "examFinal": 6,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 159,
+        "courseName": "History",
+        "exam15": 2,
+        "exam45": 1,
+        "examFinal": 9,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 160,
+        "courseName": "History",
+        "exam15": 10,
+        "exam45": 1,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 161,
+        "courseName": "History",
+        "exam15": 10,
+        "exam45": 3,
+        "examFinal": 4,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 162,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 9,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 163,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 7,
+        "examFinal": 8,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 164,
+        "courseName": "History",
+        "exam15": 10,
+        "exam45": 7,
+        "examFinal": 9,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 165,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 1,
+        "examFinal": 5,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 166,
+        "courseName": "History",
+        "exam15": 5,
+        "exam45": 7,
+        "examFinal": 6,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 167,
+        "courseName": "History",
+        "exam15": 8,
+        "exam45": 4,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 168,
+        "courseName": "History",
+        "exam15": 4,
+        "exam45": 8,
+        "examFinal": 4,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 169,
+        "courseName": "History",
+        "exam15": 6,
+        "exam45": 10,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 170,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 2,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 171,
+        "courseName": "History",
+        "exam15": 4,
+        "exam45": 4,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 172,
+        "courseName": "History",
+        "exam15": 5,
+        "exam45": 2,
+        "examFinal": 9,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 173,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 5,
+        "examFinal": 8,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 174,
+        "courseName": "History",
+        "exam15": 3,
+        "exam45": 1,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 175,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 2,
+        "examFinal": 8,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 176,
+        "courseName": "History",
+        "exam15": 9,
+        "exam45": 5,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 177,
+        "courseName": "History",
+        "exam15": 1,
+        "exam45": 2,
+        "examFinal": 10,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 178,
+        "courseName": "History",
+        "exam15": 7,
+        "exam45": 10,
+        "examFinal": 3,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 179,
+        "courseName": "History",
+        "exam15": 10,
+        "exam45": 9,
+        "examFinal": 2,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    },
+    {
+        "studentId": 180,
+        "courseName": "History",
+        "exam15": 4,
+        "exam45": 10,
+        "examFinal": 7,
+        "semesterOne": 1,
+        "semesterTwo": 0
+    }
+]
