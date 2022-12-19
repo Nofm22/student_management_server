@@ -8,10 +8,16 @@ const swaggerDocument = require("swagger-jsdoc");
 require("dotenv").config();
 let cors = require("cors");
 const app = express();
-
+// const corsOptions = {
+//     origin: true,
+//     credentials: true,
+// };
 const corsOptions = {
     origin: "https://student-management-4ybj.onrender.com/",
     credentials: true, //access-control-allow-credentials:true
+    methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+    preflightContinue: true,
+    maxAge: 600,
     optionSuccessStatus: 200,
 };
 app.use(cors(corsOptions));
