@@ -19,6 +19,15 @@ const corsOptions = {
     preflightContinue: true,
     maxAge: 600,
     optionSuccessStatus: 200,
+    allowedHeaders: [
+        "Content-Type",
+        "Authorization",
+        "X-Requested-With",
+        "device-remember-token",
+        "Access-Control-Allow-Origin",
+        "Origin",
+        "Accept",
+    ],
 };
 app.use(cors(corsOptions));
 
