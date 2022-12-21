@@ -18,7 +18,7 @@ const createStudentController = async (req, res) => {
         console.log(e);
         res.status(400).send({
             statusCode: 400,
-            "message:": "Class is full.",
+            "message:": "Class is full or Age Valitate", 
         });
     }
 };
