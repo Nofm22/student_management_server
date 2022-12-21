@@ -1,6 +1,7 @@
 const {
     createGradeService,
     getGradesService,
+    updateGradeService,
 } = require("../services/gradeServices");
 
 const createGradeController = async (req, res) => {
@@ -9,6 +10,22 @@ const createGradeController = async (req, res) => {
         res.status(200).send({
             statusCode: 200,
             data: newGrade,
+        });
+    } catch (e) {
+        console.log(e);
+        res.status(500).send({
+            statusCode: 500,
+            "message:": "Something went wrong.",
+        });
+    }
+};
+
+const updateGradeController = async (req, res) => {
+    try {
+        const updated_grade = await updateGradeService(req.body);
+        res.status(200).send({
+            statusCode: 200,
+            data: updated_grade,
         });
     } catch (e) {
         console.log(e);
@@ -36,5 +53,6 @@ const getGradeController = async (req, res) => {
 };
 module.exports = {
     createGradeController,
+    updateGradeController,
     getGradeController,
 };
