@@ -22,6 +22,8 @@ module.exports = (sequelize, DataTypes) => {
     Grade.init(
         {
             name: DataTypes.STRING,
+            minOld: DataTypes.INTEGER,
+            maxOld: DataTypes.INTEGER
         },
         {
             sequelize,
