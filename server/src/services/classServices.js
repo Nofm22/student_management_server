@@ -138,6 +138,8 @@ const getNotFullClassesService = async () => {
                     type: QueryTypes.SELECT,
                 }
             );
+            
+            console.log(classes);
 
             if (classes.length === 0) {
                 reject("Not found.");
