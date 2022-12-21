@@ -1,4 +1,4 @@
-const { Student, Class, Score, sequelize } = require("../models/index");
+const { Student, Class, Score,Grade, sequelize } = require("../models/index");
 const { QueryTypes } = require("sequelize");
 const Sequelize = require("sequelize");
 const { getAVGScoreService } = require("./scoreServices");
@@ -8,7 +8,9 @@ const createStudentService = async (data) => {
 
     return new Promise(async (resolve, reject) => {
         try {
-            if (typeof classId !== "number") {
+
+            if (!isNumeric(classId)) {
+
                 const { id } = await Class.findOne({
                     where: {
                         name: classId,
@@ -16,6 +18,7 @@ const createStudentService = async (data) => {
                 });
                 classId = id;
             }
+
             const count = await Student.count({
                 where: { classId },
             });
@@ -31,7 +34,22 @@ const createStudentService = async (data) => {
             //         type: QueryTypes.SELECT,
             //     }
             // );
-            if (count >= numberStudent) reject(false);
+
+            
+            age = getAge(date)
+            const { gradeId } = await Class.findOne({
+                where: {
+                    id: classId,
+                }
+            })
+
+            const {minOld, maxOld} = await Grade.findOne({
+                where: {
+                    id:gradeId
+                }
+            })
+            
+            if (count >= numberStudent || age>maxOld || age<minOld) reject(false);
             else {
                 const newStudent = await Student.create({
                     name,
@@ -50,6 +68,23 @@ const createStudentService = async (data) => {
         }
     });
 };
+
+function getAge(dateString) {
+    var today = new Date();
+    var birthDate = new Date(dateString);
+    var age = today.getFullYear() - birthDate.getFullYear();
+    var m = today.getMonth() - birthDate.getMonth();
+    if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
+        age--;
+    }
+    return age;
+}
+
+function isNumeric(str) {
+    if (typeof str != "string") return false // we only process strings!  
+    return !isNaN(str) && // use type coercion to parse the _entirety_ of the string (`parseFloat` alone does not do this)...
+           !isNaN(parseFloat(str)) // ...and ensure strings of whitespace fail
+  }
 
 const deleteStudentService = async (studentId) => {
     return new Promise(async (resolve, reject) => {
